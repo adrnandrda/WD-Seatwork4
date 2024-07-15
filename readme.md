@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  project is a visually engaging Features Display Website that showcases various cutting-edge technology innovations. Built using pure HTML, CSS, and JavaScript, the website emphasizes unique and dynamic layout designs for each feature. It employs modern web libraries such as Font Awesome, Google Fonts, Bootstrap, Material UI, and TailWind to enhance the user experience.
+  This project is a visually engaging Features Display Website that showcases various cutting-edge technology innovations. Built using pure HTML, CSS, and JavaScript, the website emphasizes unique and dynamic layout designs for each feature. It employs modern web libraries such as Font Awesome, Google Fonts, Bootstrap, Material UI, and TailWind to enhance the user experience.
 </div>
 
 <br />
