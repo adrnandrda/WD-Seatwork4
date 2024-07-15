@@ -120,4 +120,4 @@ WD-Seatwork4
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Background Photo | For Background Photo | [trykolang.com](https://cdn.akamai.steamstatic.com/apps/dota2/images/dota_react//home/radiant_dire5.jpg) |
